@@ -1,0 +1,1 @@
+getgenv().key = "КЛЮЧ"; loadstring(game:HttpGet("https://raw.githubusercontent.com/Konoha35/LuciusHub/main/MainScript.lua", true))()
