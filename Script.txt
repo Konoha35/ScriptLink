@@ -1,2 +1,0 @@
-getgenv().key = "YOUR_KEY"
-loadstring(game:HttpGet("https://gist.github.com/Konoha35/b430265cb88d7b03d5fdedb9c19197f2/raw"))()
